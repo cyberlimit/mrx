@@ -66,7 +66,7 @@ def loding2():
         
 def lodhirt():
     lodhirt = [
-     'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU', '      ', 'WISNU\n']
+     'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit', '      ', 'Cyber Limit\n']
     for o in lodhirt:
         print '\r\x1b[1;97m╔[\x1b[1;32m+\x1b[1;97m] \x1b[1;92mSUBSCRIBE CHANNEL \x1b[1;96m' + o,
         sys.stdout.flush()
