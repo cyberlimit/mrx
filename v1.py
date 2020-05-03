@@ -24,7 +24,7 @@ def restart():
     os.execl(ngulang, ngulang, *sys.argv)
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=62895704349609&text=Assalamualaikum')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=+12342050284&text=Assalamualaikum')
 
 def menutools():
 	os.system ('clear')
