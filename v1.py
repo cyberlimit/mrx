@@ -41,10 +41,10 @@ def ressture():
    import getpass
    sandi = raw_input('║PW      : ')
    if sandi == 'cyberlimit' and user == 'wisnu':
-      print '║LOGIN SUKSES\n╚═══════\x1b[1;91m▶'
+      print '║LOGIN SUKSES NJING\n╚═══════\x1b[1;91m▶'
       sys.exit
    else:
-      print 'Login GAGAL, Silahkan hubungi ADMIN'
+      print 'Login GAGAL TOLOL, Silahkan hubungi ADMIN'
       wa()
       ressture()
 def tik():
